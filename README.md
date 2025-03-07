@@ -1,5 +1,6 @@
 You can download my short notes PDF from this link as well - https://drive.google.com/file/d/1d6daLN8QhrmXZkZkMrh6nMcpuI4WwxaM/view?usp=drive_link
 
+<br>
 
 Study materials that I used (free):
 
@@ -15,4 +16,5 @@ Study materials that I used (free):
 
 - Practice assessment by MS Learn — https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/assessment
 
+<br>
 Good luck to those that will be taking the exam soon!
